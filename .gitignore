@@ -1,0 +1,39 @@
+# =========================
+# CMake build files
+# =========================
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# =========================
+# Compiled files
+# =========================
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.lib
+
+# =========================
+# Qt generated files
+# =========================
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# =========================
+# Visual Studio Code
+# =========================
+.vscode/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.log
+*.user
+*.user.*
